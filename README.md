@@ -29,54 +29,26 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
 </p>
 
+
+
 <details>
-  <summary><b> Click to view $ whoami</b></summary>
-  <br>
+<summary><b>🖥️ $ whoami</b></summary>
 
-  ```yaml
-  name: Smit Lad
-  role: Computer Engineering Student
-  focus:
-    - MERN Stack Development
-    - Data Structures & Algorithms
-  goal: Become a Software Engineer
+```console
+$ whoami
 
-```text
-███████╗███╗    ███╗██╗████████╗
-██╔════╝████╗  ████║██║╚══██╔══╝
-███████╗██╔████╔██║██║   ██║    
-╚════██║██║╚██╔╝██║██║   ██║    
-███████║██║ ╚═╝ ██║██║   ██║    
-╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝    
-                  સ્મિત
-─────────────────────────────────────────────────────────────
-Identity     : Smit Lad
-Classification: Computer Engineering Student (GCET)
-Aesthetic    : Steel Blue Incognito Agent 
-OS           : Windows 11
-Editor       : VS Code (Dark + Steel Accent)
-Languages    : C++  ·  JavaScript (ES6+)
-Frontend     : HTML5  ·  CSS3  ·  React.js
-Backend      : Node.js  ·  Express.js
-Databases    : MongoDB  ·  MySQL
-Status       : Operating Under the Radar
-─────────────────────────────────────────────────────────────
-agent: Smit Lad
-role: Computer Engineering Student
-clearance: Level 1 - MERN Developer & C++ Programmer
-current_mission:
-  - Mastering Data Structures & Algorithms
-  - Building Full-Stack Web Applications
-  - Developing Portfolio & Enterprise Tools
-motto: "Code in the dark, let your software make the noise."
+Name      :: Smit Lad
+Role      :: Computer Engineering Student (GCET)
+Focus     :: MERN • C++ • DSA
+Stack     :: React | Node | Express | MongoDB | MySQL
+Editor    :: VS Code
+OS        :: Windows 11
 
-📁 projects/
-├── 📚 library-management-system/      [C++ / Database]
-├── 👨‍💼 hr-management-system/           [MERN Stack]
-├── 💼 assetflow-enterprise/           [Resource Mgmt System]
-├── 🌐 personal-portfolio/             [React + Tailwind]
-└── 🚀 stealth-project-v2/             [In Development...]
+Status    :: Building projects...
+Mission   :: Becoming a Software Engineer
 
+"Code quietly. Build relentlessly."
+```
 
+</details>
 
-Session classified. Closing secure terminal session...
